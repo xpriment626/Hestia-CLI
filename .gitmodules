@@ -7,3 +7,6 @@
 [submodule "src/templates/humanity/lib/forge-std"]
 	path = src/templates/humanity/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "src/templates/arbitration-standard/lib/forge-std"]
+	path = src/templates/arbitration-standard/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
